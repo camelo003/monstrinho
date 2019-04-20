@@ -1,0 +1,4 @@
+- game concept e arte por 'rafa galardo'
+- biblioteca 'p5'
+- biblioteca 'p5.play'
+- fonte 'Uni 05_53' por 'Craig Kroeger' em 'http://www.miniml.com/fonts/uni0553/index.html'
